@@ -5,16 +5,21 @@
 
 ## Como Executar
 
-### Rotas
-
-1. Landing
-
-2. OrphanagesMap
+- faça o clone do projeto 
 
 # Web:
 
+- execute: `yarn start`
 1. Pages
 
 >Landing;
 
+# Server
+- execute: `yarn dev`
+- Tecnologias
 
+> nodejs
+
+> Typescrips
+
+> Express
